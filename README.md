@@ -1,4 +1,4 @@
-# GPTs
+artiswilliams42 cash app# GPTs
 This repo collects leaked prompts of GPTs. 
 
 Most of the prompts I collected from [here](https://x.com/dotey/status/1722831122285932592?s=20), some are from GitHub users' pull requests, and some are from using some hacked by me.
